@@ -22,5 +22,5 @@ Visualizations were created to show the following:
 3. **Agent Performance 🏷️**
 
 
-## Reports
+## Report
  ![Analysis](https://github.com/fatma-ahme/CallCenter/blob/main/Report.PNG)
