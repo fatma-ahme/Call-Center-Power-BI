@@ -5,7 +5,7 @@
 Call Centre Analysis project from Hashtag **pwc** Switzerland's internship
 
 ## Data Source
-**Fail Name :** 01 Call-Center-Dataset.xlsx
+**File Name :** 01 Call-Center-Dataset.xlsx
 
 ## Data Analysis Process
 The following measures were created and visualized:
